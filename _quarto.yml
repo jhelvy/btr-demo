@@ -1,0 +1,90 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 5896
+    browser: true
+  render:
+    - "index.qmd"
+    - "what-to-expect.qmd"
+    - "instructions-for-presenters.qmd"
+    - "job-board.qmd"
+    - "organizing-committee.qmd"
+    - "archive-directory.qmd"
+    - "blog.qmd"
+  resources:
+    - "images/"
+    - "css/"
+
+website:
+  title: "BTR Conference"
+  description: "Bridging Transportation Researchers - Your low-carbon, crowdsourced conference choice"
+  site-url: https://bridgingtransport.org
+  favicon: images/favicon.ico
+  search:
+    location: navbar
+    type: overlay
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - text: "BTR Conference Home"
+        href: index.qmd
+    right:
+      - text: "BTR 7"
+        menu:
+          - text: "Register"
+            href: "#register"
+          - text: "Headliners"
+            href: "#headliners"
+          - text: "Program"
+            href: "#program"
+      - text: "What to Expect at BTR"
+        menu:
+          - text: "What to Expect"
+            href: what-to-expect.qmd
+          - text: "Instructions for presenters"
+            href: instructions-for-presenters.qmd
+      - text: "Job Board"
+        href: job-board.qmd
+      - text: "Contact"
+        menu:
+          - text: "Organizing Committee"
+            href: organizing-committee.qmd
+          - text: "Volunteer Registration"
+            href: "#volunteer"
+          - text: "General Inquiries"
+            href: "#contact"
+      - text: "Archives"
+        menu:
+          - text: "BTR 1 (Jan 2020)"
+            href: "https://bridgingtransport.org/archive-directory/archive-of-btr-1-january-2020/"
+          - text: "BTR 2 (Aug 2020)"
+            href: "https://bridgingtransport.org/archive-directory/archive-of-btr-2-august-2020/"
+          - text: "BTR 3 (Aug 2021)"
+            href: "https://bridgingtransport.org/archive-directory/archive-of-btr-3-august-2021/"
+          - text: "BTR 4 (Aug 2022)"
+            href: "https://bridgingtransport.org/archive-directory/archive-of-btr-4-august-2022/"
+          - text: "BTR 5 (Aug 2023)"
+            href: "https://bridgingtransport.org/archive-directory/archive-of-btr-5-august-2023/"
+          - text: "BTR 6 (Aug 2024)"
+            href: "https://bridgingtransport.org/archive-directory/archive-of-btr-6-august-2024/"
+          - text: "BTR 7 (Aug 2025)"
+            href: "https://bridgingtransport.org/archive-directory/archive-of-btr-7-august-2025/"
+      - text: "BTR Blog"
+        href: blog.qmd
+      - text: "Subscribe"
+        href: "#subscribe"
+  page-footer:
+    center:
+      - text: "© 2025 BTR Conference | <a href='mailto:bridgingtransport@gmail.com'>Contact</a> | <a href='https://bridgingtransport.org'>bridgingtransport.org</a>"
+
+format:
+  html:
+    theme: [default, css/theme.scss]
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: true
+    toc: true
+    toc-location: right
+    css: css/styles.css

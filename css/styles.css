@@ -1,0 +1,151 @@
+/* Additional custom styles for BTR website */
+
+/* Ensure proper spacing and typography */
+.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Enhanced table styling for conference schedules */
+.conference-schedule {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.conference-schedule th {
+  background: linear-gradient(135deg, #2c5aa0 0%, #1a3d73 100%);
+  color: white;
+  padding: 1rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.conference-schedule td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e9ecef;
+  vertical-align: top;
+}
+
+.conference-schedule tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+/* Committee member styling */
+.committee-member {
+  margin-bottom: 1rem;
+  padding: 0.5rem 0;
+}
+
+.committee-member a {
+  font-weight: 600;
+  color: #2c5aa0;
+  text-decoration: none;
+}
+
+.committee-member a:hover {
+  color: #4CAF50;
+  text-decoration: underline;
+}
+
+/* Job listing styling */
+.job-listing {
+  background-color: #f8f9fa;
+  border-left: 4px solid #2c5aa0;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.job-listing h3 {
+  margin-top: 0;
+  color: #1a3d73;
+}
+
+.job-listing .institution {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+/* Blog post styling */
+.blog-post {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.blog-post:last-child {
+  border-bottom: none;
+}
+
+.blog-post h3 {
+  color: #2c5aa0;
+  margin-bottom: 1rem;
+}
+
+.blog-date {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+/* Archive link styling */
+.archive-link {
+  display: block;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #2c5aa0;
+  transition: all 0.3s ease;
+}
+
+.archive-link:hover {
+  background-color: #e9ecef;
+  border-color: #2c5aa0;
+  transform: translateX(5px);
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .conference-schedule {
+    font-size: 0.9rem;
+  }
+  
+  .conference-schedule th,
+  .conference-schedule td {
+    padding: 0.5rem;
+  }
+  
+  .hero-banner h1 {
+    font-size: 1.8rem;
+  }
+  
+  .btn {
+    width: 100%;
+    margin: 0.25rem 0;
+  }
+}
+
+/* Print styles */
+@media print {
+  .hero-banner {
+    background: none !important;
+    color: black !important;
+  }
+  
+  .btn {
+    display: none;
+  }
+  
+  .navbar {
+    display: none;
+  }
+}

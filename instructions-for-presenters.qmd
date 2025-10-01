@@ -1,0 +1,61 @@
+---
+title: "Instructions for Presenters"
+---
+
+## Key Dates & Checklist
+
+### Pre-Conference Setup
+
+**Please make sure you create a zoom account** at least one day prior to Conference and log in with your account (not guest) to **the Zoom app** (not Internet Explorer).
+
+### Presentation Recording & Upload
+
+**Record & upload** your presentation by August 1st at our [Google Drive Directory](https://drive.google.com/).
+
+**File Naming Convention:**
+Rename the files as "TrackName_lead author last name" (e.g., EasternTrackDay1_SharedMobility_Irannezhad)
+
+**Required Files:**
+Please ensure you **upload two files**:
+- Your PowerPoint **slides** (as .pptx)
+- Presentation **recording** (as .pptxs or .webm)
+
+### Presentation Length
+
+Your presentation should be **10 to 15 minutes**.
+
+## During the Conference
+
+**Active Participation:**
+Please participate in your session & in many others! Your recording is simply a backup, in case you have connection issues.
+
+**Q&A Session:**
+We also have **5 minutes for Q&A** with authors, for a total of 20-min per paper.
+
+**Note:** Flash session presenters will have only **15 minutes** total.
+
+## Recording Your Presentation
+
+### Recommended Tool
+
+You can use any available tool for screen & video recorder. **We recommend [PowerPoint's simple Slideshow/Record tool](https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c)** (which will save a pptxs file for you to upload).
+
+Upload the file to the [BTR Google Drive Directory](https://drive.google.com/).
+
+### Recording Tips
+
+**Audio Quality:**
+- If possible, use a microphone rather than your computer's in-built speaker to record your audio
+
+**Environment Setup:**
+- Ensure all notifications are turned off
+- Remove background noise, turn off fans, devices & close the door to avoid distraction
+
+**Video Positioning:**
+- Please make sure your video does not block the texts on your slides
+
+### Platform-Specific Instructions
+
+**Windows users** can use PowerPoint Slideshow/Record tool as described [here](https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c).
+
+**Mac users** who cannot record the camera by the PowerPoint, can use Panopto instead.

@@ -1,0 +1,73 @@
+---
+title: "Archive Directory"
+---
+
+## Conference Timeline
+
+The BTR conference follows an annual timeline with key milestones:
+
+- **January 24, 2025** – call for paper submissions
+- **April 30, 2025** – paper submissions due
+- **May-June** – peer review process
+- **July** – conference schedule and keynote speakers finalized
+- **August 6-7, 2025** – BTR Conference
+
+## Past BTR Conferences
+
+Since its inception in 2018, the Bridging Transportation Researchers (BTR) conference has grown into a significant annual event in the transportation research community. Each conference archive contains presentation recordings, slides, and program details from that year's event.
+
+### Conference Archives
+
+**[BTR 1 (January 2020)](https://bridgingtransport.org/archive-directory/archive-of-btr-1-january-2020/)**
+The inaugural BTR conference, establishing the foundation for future virtual transportation research gatherings.
+
+**[BTR 2 (August 2020)](https://bridgingtransport.org/archive-directory/archive-of-btr-2-august-2020/)**
+The first conference held in August, setting the annual schedule that continues today.
+
+**[BTR 3 (August 2021)](https://bridgingtransport.org/archive-directory/archive-of-btr-3-august-2021/)**
+Continued growth in participation and international reach during the global pandemic.
+
+**[BTR 4 (August 2022)](https://bridgingtransport.org/archive-directory/archive-of-btr-4-august-2022/)**
+Expansion of parallel sessions and enhanced technical capabilities.
+
+**[BTR 5 (August 2023)](https://bridgingtransport.org/archive-directory/archive-of-btr-5-august-2023/)**
+Introduction of special sessions and increased industry participation.
+
+**[BTR 6 (August 2024)](https://bridgingtransport.org/archive-directory/archive-of-btr-6-august-2024/)**
+The most recent completed conference with record attendance and participation.
+
+**[BTR 7 (August 2025)](https://bridgingtransport.org/archive-directory/archive-of-btr-7-august-2025/)**
+The upcoming conference featuring new innovations and expanded programming.
+
+## Archive Content
+
+Each conference archive typically includes:
+
+- **Headliner presentations** with slides and recordings
+- **Session recordings** organized by track and topic
+- **Conference program** with detailed schedules
+- **Participant statistics** and demographics
+- **Special sessions** and workshops
+- **Award announcements** and recognition
+
+## Accessing Archives
+
+All conference archives are freely accessible and provide valuable resources for:
+
+- **Researchers** seeking recent developments in transportation
+- **Students** learning about current research trends
+- **Practitioners** looking for applied research insights
+- **Educators** developing course materials
+- **Policy makers** understanding research implications
+
+## Future Archives
+
+BTR continues to grow each year, with plans for:
+
+- Enhanced recording quality and accessibility
+- Improved search functionality across archives
+- Integration with academic databases
+- Mobile-friendly archive interfaces
+- Multilingual support for international participants
+
+For questions about accessing archive materials or technical issues, please contact [bridgingtransport@gmail.com](mailto:bridgingtransport@gmail.com).

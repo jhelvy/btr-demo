@@ -1,0 +1,71 @@
+---
+title: "BTR Conference Home"
+subtitle: "Your low-carbon, crowdsourced conference choice"
+page-layout: full
+---
+
+::: {.hero-banner}
+# WELCOME TO THE BRIDGING TRANSPORTATION RESEARCHERS (BTR) ONLINE CONFERENCE!
+
+At zero cost, and practically zero carbon, BTR brings transportation engineers, planners, & policymakers together globally by removing the burden of travel, the cost of registration, & emissions associated with transport & accommodations – EVERY YEAR.
+
+We look forward to seeing you, your colleagues, students, sponsors, & other transport enthusiasts on
+
+**Wednesday + Thursday August 6 & 7, 2025!**
+
+[Register here – it's FREE!](#register){.btn .btn-primary .btn-lg}
+
+[View PROGRAM here!](#program){.btn .btn-secondary .btn-lg}
+:::
+
+## FEATURING OUR HEADLINERS: {#headliners}
+
+*[Headliner information will be updated as speakers are confirmed]*
+
+## Conference Information
+
+We solicit paper submissions from January through March each year (via past registrants & co-sponsoring organizations) and welcome transport researchers and practitioners from diverse disciplines, particularly individuals who are unable to obtain a visa or afford traveling to and participating in international conferences.
+
+Since its inception in 2018, BTR is now in its seventh year, taking place on **AUGUST 6 & 7, 2025 – in both hemispheres** (so everyone can be wide awake for at least half the events).
+
+**Any further questions? Please see [what to expect at BTR](what-to-expect.qmd).**
+
+## Thank you to our Sponsors:
+
+In collaboration with the journal [npj Sustainable Mobility and Transport](https://www.nature.com/npjsustmob/), **Best Paper Award in Sustainable Transport** will be conferred at the upcoming **BTR7**. This award celebrates scholarly excellence and provides an opportunity for broader dissemination of impactful research. Details are available in the [BTR blog](blog.qmd) or the [LinkedIn post](https://www.linkedin.com/company/bridging-transportation-researchers/).
+
+## Important Dates {#schedule}
+
+- **January 24, 2025** – call for paper submissions
+- **April 30, 2025** – paper submissions due
+- **May-June** – peer review process
+- **July** – conference schedule and keynote speakers finalized
+- **August 6-7, 2025** – BTR Conference
+
+## Registration {#register}
+
+Registration for BTR 7 is completely free and open to all transportation researchers, practitioners, and enthusiasts worldwide. Simply visit our registration page to secure your spot for this year's conference.
+
+## Program {#program}
+
+The detailed program for BTR 7 will be available in July 2025. The conference features:
+
+- **Renowned headliners** from leading institutions worldwide
+- **Parallel sessions** across multiple tracks
+- **Interactive presentations** with Q&A opportunities
+- **Networking opportunities** through virtual breakout rooms
+- **Recorded sessions** available after the conference
+
+## Subscribe {#subscribe}
+
+Stay updated with the latest BTR news and announcements by subscribing to our mailing list.
+
+## Contact {#contact}
+
+For general inquiries, please contact us at [bridgingtransport@gmail.com](mailto:bridgingtransport@gmail.com).
+
+For volunteer opportunities, visit our [organizing committee page](organizing-committee.qmd).
+
+## Volunteer Registration {#volunteer}
+
+Interested in volunteering for BTR? We welcome help from the transportation research community. Contact our organizing committee for more information about volunteer opportunities.
