@@ -17,7 +17,6 @@ project:
     - "css/"
 
 website:
-  title: "BTR Conference"
   description: "Bridging Transportation Researchers - Your low-carbon, crowdsourced conference choice"
   site-url: https://bridgingtransport.org
   favicon: images/favicon.ico
@@ -27,7 +26,7 @@ website:
   back-to-top-navigation: true
   navbar:
     left:
-      - text: "BTR Conference Home"
+      - text: "BTR Conference"
         href: index.qmd
     right:
       - text: "BTR 7"
@@ -85,6 +84,5 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     link-external-icon: true
-    toc: true
-    toc-location: right
+    toc: false
     css: css/styles.css

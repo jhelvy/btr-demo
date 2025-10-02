@@ -1,11 +1,13 @@
 ---
-title: "BTR Conference Home"
+title: "BTR Conference"
 subtitle: "Your low-carbon, crowdsourced conference choice"
 page-layout: full
+toc: false
 ---
 
 ::: {.hero-banner}
-# WELCOME TO THE BRIDGING TRANSPORTATION RESEARCHERS (BTR) ONLINE CONFERENCE!
+
+# WELCOME TO THE **BRIDGING TRANSPORTATION RESEARCHERS** (BTR) ONLINE CONFERENCE!
 
 At zero cost, and practically zero carbon, BTR brings transportation engineers, planners, & policymakers together globally by removing the burden of travel, the cost of registration, & emissions associated with transport & accommodations – EVERY YEAR.
 
